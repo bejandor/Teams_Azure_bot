@@ -1,0 +1,5 @@
+botbuilder-integration-aiohttp>=4.14.0
+aiohttp
+opencensus
+opencensus-ext-azure
+
